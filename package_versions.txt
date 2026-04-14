@@ -50,7 +50,7 @@ libpng                  1.6.57-r0             apk
 libpq                   17.9-r0               apk       
 libproc2                4.0.4-r3              apk       
 libpsl                  0.21.5-r3             apk       
-librespeed-speedtest    6.0.0                 npm       
+librespeed-speedtest    6.0.2                 npm       
 libsharpyuv             1.5.0-r0              apk       
 libsm                   1.2.5-r0              apk       
 libssl3                 3.5.5-r0              apk       
